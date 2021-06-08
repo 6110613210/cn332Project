@@ -1,4 +1,7 @@
 # cn332Project
+ลิงค์วิดิโอสาธิตการใช้งานและอธิบาย pattern ต่างๆ https://www.youtube.com/watch?v=e7exP1ghkDk
+
+
 สมาชิก
 
 ภูริณัฐ สุเมธยาจารย์ 6110613194
